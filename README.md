@@ -1,7 +1,7 @@
 # Java-Servlet
-Servlet Interface
-GenericServlet
-HttpServlet
-Filter
-Session Management
+Servlet Interface,
+GenericServlet,
+HttpServlet,
+Filter,
+Session Management .
 
