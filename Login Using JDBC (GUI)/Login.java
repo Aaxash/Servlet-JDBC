@@ -133,13 +133,7 @@ public class login extends javax.swing.JFrame {
         pack();
     }// </editor-fold>                        
 
-    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {                                            
-        // TODO add your handling code here:
-    }                                           
-
-    private void jPasswordField1ActionPerformed(java.awt.event.ActionEvent evt) {                                                
-        // TODO add your handling code here:
-    }                                               
+                                                 
 
     private void loginbtn(java.awt.event.ActionEvent evt) {                          
        
