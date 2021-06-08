@@ -8,7 +8,7 @@
     <body>
         <%! int d=10;
              String s="JSP"; %>  
-<%= d+s %>  
+  
         <h1>Hello World!</h1>
     </body>
 </html>
