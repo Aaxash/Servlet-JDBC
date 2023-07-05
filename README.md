@@ -1,7 +1,2 @@
-# Java-Servlet
-Servlet Interface,
-GenericServlet,
-HttpServlet,
-Filter,
-Session Management .
-
+# Java-Servlet and JSP
+Programs implementing servlet and jsp concepts
